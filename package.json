@@ -6,6 +6,9 @@
   "repository": "https://github.com/stayradiated/zwolf-firestore",
   "author": "George Czabania",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "pkg-build",
     "test": "true",
