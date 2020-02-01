@@ -8,6 +8,7 @@
   "license": "MIT",
   "scripts": {
     "build": "pkg-build",
+    "test": "true",
     "tidy": "pkg-tidy"
   },
   "dependencies": {
