@@ -1,6 +1,6 @@
 {
   "name": "@zwolf/firestore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight wrapper around typesaurus",
   "main": "./dist/index.js",
   "repository": "https://github.com/stayradiated/zwolf-firestore",
