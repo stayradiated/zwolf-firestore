@@ -15,10 +15,10 @@
     "tidy": "pkg-tidy"
   },
   "dependencies": {
-    "firebase-admin": "8.9.2",
-    "typesaurus": "5.1.0"
+    "firebase-admin": "8.10.0",
+    "typesaurus": "5.3.0"
   },
   "devDependencies": {
-    "@stayradiated/pkg": "4.1.0"
+    "@stayradiated/pkg": "4.3.0"
   }
 }
